@@ -22,3 +22,23 @@ Users can:
 Example URL:  
 ```bash
 https://cataas.com/cat?random=1
+```
+## UI/UX Features
+- Pointer & touch events → swipe left/right on desktop & mobile
+- Haptic feedback (`navigator.vibrate`) → small vibration on like/dislike (mobile)
+- Undo logic → single-step undo of last swipe
+- Summary view → shows liked cats at the end with count
+- Responsive design → works smoothly on mobile & desktop
+
+## Tooling
+- **Node.js + npm** – package management
+- **Git & GitHub** – version control and code hosting
+- **Create React App (CRA)** – project scaffold
+
+## Features
+- Responsive UI for both desktop and mobile
+- Real-time swiping interactions using React animation libraries
+- API-driven architecture for future expansion
+
+## Goal
+To create a playful and engaging platform for cat enthusiasts to discover adoptable cats while learning full-stack development.
